@@ -5,6 +5,11 @@
 
 **Today's Progress**: Set up git repo, and working on tribute page on FreeCodeCamp.
 
+### Day 1: January 5th, 2018
+
+
+**Today's Progress**: Finished tribute page on FreeCodeCamp.
+
 
 
 
