@@ -10,6 +10,12 @@
 
 **Today's Progress**: Finished tribute page on FreeCodeCamp.
 
+### Day 2: January 6th, 2018
+
+
+**Today's Progress**: Started personal portfolio on FreeCodeCamp. 
+
+
 
 
 
