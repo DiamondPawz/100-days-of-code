@@ -15,6 +15,11 @@
 
 **Today's Progress**: Started personal portfolio on FreeCodeCamp. 
 
+### Day 3: January 7th, 2018
+
+
+**Today's Progress**: Finished portfolio.
+
 
 
 
