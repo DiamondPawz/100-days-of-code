@@ -20,6 +20,10 @@
 
 **Today's Progress**: Finished portfolio.
 
+### Day 4: January 8th, 2018
+
+
+**Today's Progress**: Did javascript lessons.
 
 
 
