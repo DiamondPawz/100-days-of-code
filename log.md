@@ -25,6 +25,11 @@
 
 **Today's Progress**: Did javascript lessons.
 
+### Day 5: January 9th, 2018
+
+
+**Today's Progress**: Did more javascript lessons.
+
 
 
 
