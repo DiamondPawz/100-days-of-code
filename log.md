@@ -30,6 +30,12 @@
 
 **Today's Progress**: Did more javascript lessons.
 
+### Day 6: January 10th, 2018
+
+
+**Today's Progress**: Java.
+
+
 
 
 
