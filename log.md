@@ -35,6 +35,12 @@
 
 **Today's Progress**: Java.
 
+### Day 7: January 11th, 2018
+
+
+**Today's Progress**: Java.
+
+
 
 
 
