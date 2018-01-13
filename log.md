@@ -33,12 +33,18 @@
 ### Day 6: January 10th, 2018
 
 
-**Today's Progress**: Java.
+**Today's Progress**: Javascript.
 
 ### Day 7: January 11th, 2018
 
 
-**Today's Progress**: Java.
+**Today's Progress**: Javascript.
+
+### Day 8: January 12th, 2018
+
+
+**Today's Progress**: Javascript.
+
 
 
 
