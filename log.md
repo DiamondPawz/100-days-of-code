@@ -45,6 +45,10 @@
 
 **Today's Progress**: Javascript.
 
+### Day 9: January 13th, 2018
+
+
+**Today's Progress**: Javascript.
 
 
 
