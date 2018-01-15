@@ -50,6 +50,11 @@
 
 **Today's Progress**: Javascript.
 
+### Day 10: January 14th, 2018
+
+
+**Today's Progress**: Javascript.
+
 
 
 
