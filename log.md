@@ -65,6 +65,10 @@
 
 **Today's Progress**: Javascript.
 
+### Day 13: January 18th, 2018
+
+
+**Today's Progress**: Javascript.
 
 
 
