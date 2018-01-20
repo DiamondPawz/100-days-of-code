@@ -57,15 +57,16 @@
 
 ### Day 11: January 16th, 2018
 
+**Today's Progress**: Javascript.
 
+### Day 11: January 16th, 2018
 **Today's Progress**: Javascript.
 
 ### Day 12: January 17th, 2018
 
-
 **Today's Progress**: Javascript.
 
-### Day 13: January 18th, 2018
+### Day 14: January 19th, 2018
 
 
 **Today's Progress**: Javascript.
