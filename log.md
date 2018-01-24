@@ -71,5 +71,17 @@
 
 **Today's Progress**: Javascript.
 
+### Day 15: January 20th, 2018
 
 
+**Today's Progress**: Javascript.
+
+### Day 16: January 21th, 2018
+
+
+**Today's Progress**: Javascript.
+
+### Day 17: January 23th, 2018
+
+
+**Today's Progress**: Javascript.
